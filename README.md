@@ -38,21 +38,8 @@
     </tr>
     <tr>
       <td colspan="2" align="center">
-         <!-- Trophy with dark mode support --> 
-        <picture> 
-          <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app?username=Lenghak&theme=dark&column=-1&row=1&margin-w=8&margin-h=8&no-bg=true&no-frame=true&order=4" width="100%">
-          <img alt="GitHub Trophy" src="https://github-profile-trophy.vercel.app?username=Lenghak&theme=light&column=-1&row=1&margin-w=8&margin-h=8&no-bg=true&no-frame=true&order=4" width="100%">
-         </picture>
-      </td>
-    </tr>
-    <tr>
-      <td colspan="2" align="center">
         <!-- Snake Animation -->
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Lenghak/Lenghak/blob/output/github-contribution-grid-snake-dark.svg">
-          <source media="(prefers-color-scheme: light)" srcset="https://github.com/Lenghak/Lenghak/blob/output/github-contribution-grid-snake.svg">
-          <img alt="Snake" src="https://github.com/Lenghak/Lenghak/blob/output/github-contribution-grid-snake.svg" width="100%">
-        </picture>
+          <img alt="contribution" src="http://www.allgitcontributiongraph.com/justgraphit.svg?github=Lenghak&gitlab=Lenghak" width="100%">
       </td>
     </tr>
   </table>
