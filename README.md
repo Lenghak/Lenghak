@@ -13,6 +13,12 @@
       </td>
     </tr>
     <tr>
+      <td colspan="2" align="center">
+        <!-- Activity Graph -->
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=Lenghak&radius=16&bg_color=00000000&theme=github-compact&area=true&order=5&hide_border=true" width="100%" alt="activity-graph" />
+      </td>
+    </tr>
+    <tr>
       <td width="50%" align="center">
         <!-- GitHub Streak -->
         <a href="https://git.io/streak-stats">
@@ -32,13 +38,6 @@
     </tr>
     <tr>
       <td colspan="2" align="center">
-        <!-- Activity Graph -->
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=Lenghak&radius=16&bg_color=00000000&theme=github-compact&area=true&order=5&hide_border=true" width="100%" alt="activity-graph" />
-      </td>
-    </tr>
-    <tr>
-      <td colspan="2" align="center">
-        <!-- Snake Animation -->
           <img alt="contribution" src="http://www.allgitcontributiongraph.com/justgraphit.svg?github=Lenghak&gitlab=Lenghak" width="100%">
       </td>
     </tr>
